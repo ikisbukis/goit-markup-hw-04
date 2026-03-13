@@ -309,7 +309,7 @@ p{
 
 .overlay-p{
     padding: 40px 32px;
-    max-width: 296;
+    max-width: 296px;
     max-height: 96px;
 }
 
@@ -413,7 +413,5 @@ p{
     color:#404BBF;
 }
 
-.link:active{
-    text-decoration:underline;
-}
+
  
